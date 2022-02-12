@@ -14,7 +14,7 @@ class Persona{
 				direccion = dir;
 				telefono = tel;
 			}
-	
+	 
 	//metodo
 	void mostrar();
 };

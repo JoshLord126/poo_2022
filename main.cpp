@@ -4,7 +4,7 @@ using namespace std;
 main(){
 	string nit,nombres,apellidos,direccion;
 	int telefono;
-	
+	 
 	cout<<"Ingresar Nit: ";
 	cin>>nit;
 	cout<<"Ingresar Nombres: ";
